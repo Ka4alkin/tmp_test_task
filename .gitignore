@@ -1,0 +1,6 @@
+.idea
+client/.DS_Store
+client/.env
+server/node_modules
+server/.env
+.DS_Store
