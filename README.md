@@ -20,4 +20,6 @@ also there are insomnia file config at dir server folder
 
 at the end, you can see result at http://127.0.0.1:5173/
 
+if there are problems with some module install try npm i --legacy-peer-deps or --force
+
 main stack ☠️: tailwind css, redux toolkit, express, mongo, react, ts
