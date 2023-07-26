@@ -1,12 +1,8 @@
-🍎linkToTask: https://docs.google.com/document/d/1sUmnikCRTQyU0jda2jZXD6rPPmOs-veD471m-QijmRY/edit
+🍎 linkToTask: https://docs.google.com/document/d/1sUmnikCRTQyU0jda2jZXD6rPPmOs-veD471m-QijmRY/edit
 
 TO RUN APP IN DEV MOD:
 
-- you should have installed mongoDb
-- check it at http://localhost:27017/ must be the next text 'It looks like you are trying to access MongoDB over HTTP on the native driver port.'
-
-- create vandal db: use vandal
-- create users collection: db.createCollection('users')
+- add MONGO_PASSWORD variable to .env it will be MONGO_PASSWORD=BkThH4qil25J88Et
 
 in terminal do next steps
 
