@@ -2,8 +2,6 @@
 
 TO RUN APP IN DEV MOD:
 
-- add MONGO_PASSWORD variable to .env it will be MONGO_PASSWORD=BkThH4qil25J88Et
-
 in terminal do next steps
 
 - cd server
@@ -15,6 +13,8 @@ in terminal do next steps
 - npm run dev
 
 - make .env files at both server and client like at .env.example
+
+MONGO_PASSWORD=BkThH4qil25J88Et
 
 also there are insomnia file config at dir server folder
 
